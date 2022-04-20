@@ -1,0 +1,699 @@
+/* Serie A */
+
+  #bg-seriea{
+  background-image: url('https://api.sofascore.app/api/v1/unique-tournament/23/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-coppa{
+  background-image: url('https://api.sofascore.app/api/v1/unique-tournament/328/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-napoli{
+  background-image: url('https://api.sofascore.app/api/v1/team/2714/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-roma{
+  background-image: url('https://api.sofascore.app/api/v1/team/2702/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-milan{
+  background-image: url('https://api.sofascore.app/api/v1/team/2692/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-inter{
+  background-image: url('https://api.sofascore.app/api/v1/team/2697/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-juventus{
+  background-image: url('https://api.sofascore.app/api/v1/team/2687/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-lazio{
+  background-image: url('https://api.sofascore.app/api/v1/team/2699/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-fiorentina{
+  background-image: url('https://api.sofascore.app/api/v1/team/2693/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-atalanta{
+  background-image: url('https://api.sofascore.app/api/v1/team/2686/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-sassuolo{
+  background-image: url('https://api.sofascore.app/api/v1/team/2793/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-verona{
+  background-image: url('https://api.sofascore.app/api/v1/team/2701/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-torino{
+  background-image: url('https://api.sofascore.app/api/v1/team/2696/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-udinese{
+  background-image: url('https://api.sofascore.app/api/v1/team/2695/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-bologna{
+  background-image: url('https://api.sofascore.app/api/v1/team/2685/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-empoli{
+  background-image: url('https://api.sofascore.app/api/v1/team/2705/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-spezia{
+  background-image: url('https://api.sofascore.app/api/v1/team/2735/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-sampdoria{
+  background-image: url('https://api.sofascore.app/api/v1/team/2711/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-cagliari{
+  background-image: url('https://api.sofascore.app/api/v1/team/2719/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-genoa{
+  background-image: url('https://api.sofascore.app/api/v1/team/2688/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-venezia{
+  background-image: url('https://api.sofascore.app/api/v1/team/1713/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-salernitana{
+  background-image: url('https://api.sofascore.app/api/v1/team/2710/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/* La Liga */
+
+  #bg-laliga{
+  background-image: url('https://api.sofascore.app/api/v1/unique-tournament/8/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-madrid{
+  background-image: url('https://api.sofascore.app/api/v1/team/2829/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-barcelona{
+  background-image: url('https://api.sofascore.app/api/v1/team/2817/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-atm{
+  background-image: url('https://api.sofascore.app/api/v1/team/2836/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-sevilla{
+  background-image: url('https://api.sofascore.app/api/v1/team/2833/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-betis{
+  background-image: url('https://api.sofascore.app/api/v1/team/2816/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-sociedad{
+  background-image: url('https://api.sofascore.app/api/v1/team/2824/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-villareal{
+  background-image: url('https://api.sofascore.app/api/v1/team/2819/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-athletic{
+  background-image: url('https://api.sofascore.app/api/v1/team/2825/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-osasuna{
+  background-image: url('https://api.sofascore.app/api/v1/team/2820/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-valencia{
+  background-image: url('https://api.sofascore.app/api/v1/team/2828/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-celta{
+  background-image: url('https://api.sofascore.app/api/v1/team/2821/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-espanyol{
+  background-image: url('https://api.sofascore.app/api/v1/team/2814/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-elche{
+  background-image: url('https://api.sofascore.app/api/v1/team/2846/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-rayo{
+  background-image: url('https://api.sofascore.app/api/v1/team/2818/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-getafe{
+  background-image: url('https://api.sofascore.app/api/v1/team/2859/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-granada{
+  background-image: url('https://api.sofascore.app/api/v1/team/33779/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-mallorca{
+  background-image: url('https://api.sofascore.app/api/v1/team/2826/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-cadiz{
+  background-image: url('https://api.sofascore.app/api/v1/team/4488/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-levante{
+  background-image: url('https://api.sofascore.app/api/v1/team/2849/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-alaves{
+  background-image: url('https://api.sofascore.app/api/v1/team/2885/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/* Premier League */
+
+  #bg-epl{
+  background-image: url('https://api.sofascore.app/api/v1/unique-tournament/17/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-city{
+  background-image: url('https://api.sofascore.app/api/v1/team/17/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-united{
+  background-image: url('https://api.sofascore.app/api/v1/team/35/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-liverpool{
+  background-image: url('https://api.sofascore.app/api/v1/team/44/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-chelsea{
+  background-image: url('https://api.sofascore.app/api/v1/team/38/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-spurs{
+  background-image: url('https://api.sofascore.app/api/v1/team/33/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-arsenal{
+  background-image: url('https://api.sofascore.app/api/v1/team/42/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-westham{
+  background-image: url('https://api.sofascore.app/api/v1/team/37/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-wolves{
+  background-image: url('https://api.sofascore.app/api/v1/team/3/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-leicester{
+  background-image: url('https://api.sofascore.app/api/v1/team/31/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-brighton{
+  background-image: url('https://api.sofascore.app/api/v1/team/30/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-brentford{
+  background-image: url('https://api.sofascore.app/api/v1/team/50/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-southampton{
+  background-image: url('https://api.sofascore.app/api/v1/team/45/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-palace{
+  background-image: url('https://api.sofascore.app/api/v1/team/7/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-newcastle{
+  background-image: url('https://api.sofascore.app/api/v1/team/39/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-astonvilla{
+  background-image: url('https://api.sofascore.app/api/v1/team/40/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-leeds{
+  background-image: url('https://api.sofascore.app/api/v1/team/34/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-everton{
+  background-image: url('https://api.sofascore.app/api/v1/team/48/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-burnley{
+  background-image: url('https://api.sofascore.app/api/v1/team/6/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-watford{
+  background-image: url('https://api.sofascore.app/api/v1/team/24/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-norwich{
+  background-image: url('https://api.sofascore.app/api/v1/team/263/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Ligue 1 */
+
+  #bg-ligue1{
+  background-image: url('https://api.sofascore.app/api/v1/unique-tournament/34/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-psg{
+  background-image: url('https://api.sofascore.app/api/v1/team/1644/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-angers{
+  background-image: url('https://api.sofascore.app/api/v1/team/1684/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-marseille{
+  background-image: url('https://api.sofascore.app/api/v1/team/1641/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-rennais{
+  background-image: url('https://api.sofascore.app/api/v1/team/1658/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-nice{
+  background-image: url('https://api.sofascore.app/api/v1/team/1661/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-strasbourg{
+  background-image: url('https://api.sofascore.app/api/v1/team/1659/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-monaco{
+  background-image: url('https://api.sofascore.app/api/v1/team/1653/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-lens{
+  background-image: url('https://api.sofascore.app/api/v1/team/1648/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-lyon{
+  background-image: url('https://api.sofascore.app/api/v1/team/1649/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-lille{
+  background-image: url('https://api.sofascore.app/api/v1/team/1643/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-nates{
+  background-image: url('https://api.sofascore.app/api/v1/team/1647/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-montpellier{
+  background-image: url('https://api.sofascore.app/api/v1/team/1642/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-brest{
+  background-image: url('https://api.sofascore.app/api/v1/team/1715/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-reims{
+  background-image: url('https://api.sofascore.app/api/v1/team/1682/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-troyes{
+  background-image: url('https://api.sofascore.app/api/v1/team/1652/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-lorient{
+  background-image: url('https://api.sofascore.app/api/v1/team/1656/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-saint{
+  background-image: url('https://api.sofascore.app/api/v1/team/1678/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-clermont{
+  background-image: url('https://api.sofascore.app/api/v1/team/1680/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-bordeaux{
+  background-image: url('https://api.sofascore.app/api/v1/team/1645/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-metz{
+  background-image: url('https://api.sofascore.app/api/v1/team/1651/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
