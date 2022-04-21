@@ -1,0 +1,89 @@
+/* NBA */
+
+  #bg-nba{
+  background-image: url('https://api.sofascore.app/api/v1/unique-tournament/132/image');
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-raptors{
+  background-image: url('https://api.sofascore.app/api/v1/team/3433/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-76ers{
+  background-image: url('https://api.sofascore.app/api/v1/team/3420/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-bucks{
+  background-image: url('https://api.sofascore.app/api/v1/team/3410/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-bulls{
+  background-image: url('https://api.sofascore.app/api/v1/team/3409/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-warriors{
+  background-image: url('https://api.sofascore.app/api/v1/team/3428/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-nuggets{
+  background-image: url('https://api.sofascore.app/api/v1/team/3417/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-memphis{
+  background-image: url('https://api.sofascore.app/api/v1/team/3415/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-minnesota{
+  background-image: url('https://api.sofascore.app/api/v1/team/3426/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-utah{
+  background-image: url('https://api.sofascore.app/api/v1/team/3434/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  #bg-dallas{
+  background-image: url('https://api.sofascore.app/api/v1/team/3411/image') ;
+  height: auto; width: 100%;              
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
